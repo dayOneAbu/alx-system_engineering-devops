@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lrta && ls -lrta ../ && ls -lrta /boot
